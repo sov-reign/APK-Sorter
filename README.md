@@ -8,7 +8,6 @@ INSTALLATION:
 4. Run the APK_Renamer binary from the same folder wherin it is located.
 
 COMMAND LINE OPTIONS:
-
--r="PATH" - This option tells APK_Renamer where to find the APKs that are to be sorted. Replace PATH with the path of the folder containing the APKs.
--o="PATH" - This option tells APK_Renamer where to output the processed APKs. 
--l="NAME" - This options tells APK_Renmaer to create a log file. Replace NAME with the desired name for the log file.
+1. -r="PATH" - This option tells APK_Renamer where to find the APKs that are to be sorted. Replace PATH with the path of the folder containing the APKs.
+2. -o="PATH" - This option tells APK_Renamer where to output the processed APKs. 
+3. -l="NAME" - This options tells APK_Renmaer to create a log file. Replace NAME with the desired name for the log file.
