@@ -1,5 +1,5 @@
 # APK-Sorter
-This program renames and sorts APKs into directory structure that's arranged by APK name and version number. It runs only on Linux.
+This program renames and sorts APKs into a directory structure that's arranged by APK name and version number. It runs only on Linux.
 
 INSTALLATION:
 1. Compile APK_Renamer.c
